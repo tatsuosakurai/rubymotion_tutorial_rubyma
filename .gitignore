@@ -16,3 +16,17 @@ tmp
 .yardoc
 _yardoc
 doc/
+.repl_history
+build
+tags
+resources/*.nib
+resources/*.momd
+resources/*.storyboardc
+.DS_Store
+nbproject
+.redcar
+#*#
+*~
+*.sw[po]
+.eprj
+
